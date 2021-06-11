@@ -1,2 +1,2 @@
 # hyrax
-A modern Human Resources management tool as a learning exercise
+A database of UK mountains with modern web and desktop front ends built with .Net 6 as a learning exercise
